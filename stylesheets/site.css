@@ -111,6 +111,10 @@ body {
     position: relative;
     padding: 25px;
     color: #ddd; }
+  .blog-post-wrap a {
+    color: #F16C5B;
+    text-decoration: none;
+  }
 
 /* line 119, /Users/retro/Projects/webcamp-2015/source/stylesheets/site.scss */
 .buy-tickets-wrap {
